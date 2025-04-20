@@ -4,5 +4,11 @@
     "name": "Buffalof",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "b41d164e-be47-3eed-bb9b-019d637e13b1",
+    "name": "el_mas_capito",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]
