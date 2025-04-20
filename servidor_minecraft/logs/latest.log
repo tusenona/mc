@@ -351,3 +351,37 @@ opopop op<--[HERE]
 [09:57:50] [Server thread/WARN]: Rejecting UseItemOnPacket from Buffalof: Location (271.94746232032776, 62.1875, -104.48877346515656) too far away from hit block BlockPos{x=271, y=63, z=-105}.
 [09:57:50] [Server thread/WARN]: Rejecting UseItemOnPacket from Buffalof: Location (271.94746232032776, 62.1875, -104.48877346515656) too far away from hit block BlockPos{x=271, y=63, z=-105}.
 [09:57:50] [Server thread/WARN]: Rejecting UseItemOnPacket from Buffalof: Location (271.94746232032776, 62.1875, -104.48877346515656) too far away from hit block BlockPos{x=271, y=63, z=-105}.
+[10:11:52] [Server thread/WARN]: Buffalof moved wrongly!
+[10:12:10] [Server thread/INFO]: Buffalof issued server command: /plugins
+[10:12:50] [Server thread/INFO]: Buffalof issued server command: /paper:spark
+[10:12:53] [Server thread/INFO]: Buffalof issued server command: /paper:spark heñ
+[10:16:26] [Server thread/INFO]: Buffalof lost connection: Disconnected
+[10:16:26] [Server thread/INFO]: Buffalof left the game
+[10:16:37] [Server thread/INFO]: Stopping the server
+[10:16:37] [Server thread/INFO]: Stopping server
+[10:16:37] [Server thread/INFO]: [BlockLocker] Disabling BlockLocker v1.12.2
+[10:16:37] [Server thread/INFO]: [BetterSleeping4] Disabling BetterSleeping4 v4.0.2
+[10:16:37] [Server thread/INFO]: [PlugManX] Disabling PlugManX v2.4.1
+[10:16:37] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.6.2
+[10:16:37] [Server thread/INFO]: [OmegaCVW] Disabling OmegaCVW v0.2.3
+[10:16:37] [Server thread/INFO]: Saving players
+[10:16:37] [Server thread/INFO]: Saving worlds
+[10:16:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[10:16:37] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[10:16:37] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[10:16:37] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[10:16:37] [Server thread/INFO]: [ChunkHolderManager] Saved 35 block chunks, 147 entity chunks, 2 poi chunks in world 'world' in 0.13s
+[10:16:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[10:16:38] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[10:16:38] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[10:16:38] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[10:16:38] [Server thread/INFO]: [ChunkHolderManager] Saved 87 block chunks, 87 entity chunks, 0 poi chunks in world 'world_nether' in 0.12s
+[10:16:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[10:16:38] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[10:16:38] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[10:16:38] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[10:16:38] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[10:16:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10:16:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10:16:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10:16:38] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
