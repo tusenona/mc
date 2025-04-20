@@ -332,3 +332,5 @@ opopop op<--[HERE]
 [09:22:50] [Async Chat Thread - #51/INFO]: [Not Secure] <elmas_capito> q gil
 [09:22:51] [Server thread/INFO]: elmas_capito lost connection: Disconnected
 [09:22:51] [Server thread/INFO]: elmas_capito left the game
+[09:33:25] [Server thread/WARN]: Buffalof moved wrongly!
+[09:33:37] [Server thread/WARN]: Player Buffalof just tried to change non-editable sign
