@@ -75,3 +75,8 @@
 [06:37:51] [User Authenticator #0/INFO]: UUID of player Buffalof is 36af25f0-0580-37f8-b398-bcca17ed376a
 [06:37:54] [Server thread/INFO]: Buffalof joined the game
 [06:37:55] [Server thread/INFO]: Buffalof[/127.144.197.150:38825] logged in with entity id 18 at ([world]286.43763400752147, 67.0, -89.35576616757724)
+[06:49:58] [Server thread/INFO]: Buffalof lost connection: Disconnected
+[06:49:58] [Server thread/INFO]: Buffalof left the game
+[06:51:47] [User Authenticator #1/INFO]: UUID of player Buffalof is 36af25f0-0580-37f8-b398-bcca17ed376a
+[06:51:48] [Server thread/INFO]: Buffalof joined the game
+[06:51:48] [Server thread/INFO]: Buffalof[/127.144.197.150:40669] logged in with entity id 1766 at ([world]269.2961908930715, 68.0, 10.302358503130367)
