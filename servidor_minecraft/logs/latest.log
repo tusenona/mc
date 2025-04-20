@@ -125,3 +125,28 @@ opopop op<--[HERE]
 [07:34:45] [Server thread/INFO]: elmas_capito[/127.75.238.33:43825] logged in with entity id 8780 at ([world]460.72896614001155, -2.0, -221.83487105718748)
 [07:34:49] [Async Chat Thread - #7/INFO]: [Not Secure] <Buffalof> q on amigo
 [07:35:14] [Server thread/WARN]: Rejecting UseItemOnPacket from Buffalof: Location (255.40123304724693, 46.478069335222244, 40.875) too far away from hit block BlockPos{x=255, y=46, z=39}.
+[07:35:56] [Server thread/INFO]: elmas_capito lost connection: Disconnected
+[07:35:56] [Server thread/INFO]: elmas_capito left the game
+[07:40:21] [User Authenticator #5/INFO]: UUID of player elmas_capito is abc94c98-44dc-3017-909d-12772c05452a
+[07:40:24] [Server thread/INFO]: elmas_capito joined the game
+[07:40:24] [Server thread/INFO]: elmas_capito[/127.75.238.33:41453] logged in with entity id 9671 at ([world]461.69999998807907, -3.0, -226.6139031138294)
+[07:41:08] [Server thread/WARN]: Rejecting UseItemOnPacket from Buffalof: Location (256.4510872066021, 47.43646115064621, 40.875) too far away from hit block BlockPos{x=256, y=47, z=39}.
+[07:41:37] [Async Chat Thread - #9/INFO]: [Not Secure] <elmas_capito> amigo
+[07:41:41] [Async Chat Thread - #9/INFO]: [Not Secure] <Buffalof> decime bro
+[07:41:54] [Async Chat Thread - #10/INFO]: [Not Secure] <elmas_capito> m desconecte xq m habia explotado un creeper y quedo re duro
+[07:41:59] [Async Chat Thread - #10/INFO]: [Not Secure] <Buffalof> xdd
+[07:42:04] [Async Chat Thread - #10/INFO]: [Not Secure] <elmas_capito> y cuando m conecte tenia MEDIO CORAZON
+[07:42:08] [Server thread/INFO]: Buffalof burned to death
+[07:42:13] [Server thread/INFO]: Buffalof issued server command: /tp elmas_capito
+[07:42:13] [Server thread/INFO]: [Buffalof: Teleported Buffalof to elmas_capito]
+[07:42:19] [Server thread/INFO]: Buffalof issued server command: /kill
+[07:42:19] [Server thread/INFO]: Buffalof was killed
+[07:42:19] [Server thread/INFO]: [Buffalof: Killed Buffalof]
+[07:42:23] [Async Chat Thread - #10/INFO]: [Not Secure] <Buffalof> mato
+[07:42:45] [Async Chat Thread - #10/INFO]: [Not Secure] <Buffalof> anda zarpado el sv
+[07:42:47] [Async Chat Thread - #10/INFO]: [Not Secure] <elmas_capito> toy bastante lejitos
+[07:43:00] [Async Chat Thread - #10/INFO]: [Not Secure] <elmas_capito> sisi era el laucher nomas skaks
+[07:43:07] [Async Chat Thread - #9/INFO]: [Not Secure] <Buffalof> d1
+[07:43:09] [Async Chat Thread - #9/INFO]: [Not Secure] <Buffalof> no duermas bro
+[07:43:10] [Async Chat Thread - #9/INFO]: [Not Secure] <elmas_capito> pasa q estaba afk en una granja
+[07:43:30] [Async Chat Thread - #10/INFO]: [Not Secure] <elmas_capito> y no habia reiniciado la pc
